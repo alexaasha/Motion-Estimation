@@ -1,1 +1,0 @@
-/snap/pypy/47/lib-python/2.7/codecs.py
